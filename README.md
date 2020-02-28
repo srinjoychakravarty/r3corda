@@ -7,14 +7,11 @@ Corda Solutions Engineering Team Exercise designed by the R3 team and set by Lau
 
 # 4d) Running a Corda Flow
 
-
-
 Corda Solutions Engineering Team Exercise designed by the R3 team and set by
 
-![Adds an additional requirement to the contract so that 'content' variable in
-MessageState cannot be an empty String](https://srinjoy-resume.herokuapp.com/im$
+![enter image description here](https://srinjoy-resume.herokuapp.com/img/r3.png)
 
-*Adds an additional requirement to the contract so that 'content' variable in M$
+*Adds an additional requirement to the contract so that 'content' variable in MessageState cannot be an empty
 
 
 # 5) Final Thoughts
