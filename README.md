@@ -1,8 +1,9 @@
-# Welcome to StackEdit!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-![enter image description here](https://ibb.co/nRzBLqd)
+# Welcome to testing smart contracts on Corda!
 
-![enter image description here](https://ibb.co/nRzBLqd)
+Corda Solutions Engineering Team Exercise designed by the R3 team and set by 
 
-![Imgure](https://imgur.com/lDdCcf3)
+![Adds an additional requirement to the contract so that 'content' variable in
+MessageState cannot be an empty String](https://srinjoy-resume.herokuapp.com/img/r3.png)
+
+*Adds an additional requirement to the contract so that 'content' variable in MessageState cannot be an empty String*
